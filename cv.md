@@ -22,3 +22,7 @@
 
 ## Education:
 **Higher School of Economics** - Applied Mathematics
+
+## Languages:
+- **Russian** - native
+- **English** - A2
